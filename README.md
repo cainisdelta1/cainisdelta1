@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently studying computational mathmatics at Rochester Institute of Technology
+- I'm currently working on revising my C project prime number finder
+- I am also working on a 2D platform game named KRIN
+
 <!--
 **cainisdelta1/cainisdelta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
