@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There
 
 - I'm currently studying computational mathmatics at Rochester Institute of Technology
 - I'm currently working on revising my C project prime number finder
