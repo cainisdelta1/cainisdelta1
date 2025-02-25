@@ -1,8 +1,9 @@
 ## Hello There
 
 - I'm currently studying computational mathmatics at Rochester Institute of Technology
-- I'm currently working on revising my C project prime number finder
+- I'm currently working on revising my C project prime number finder which I am extremely proud of. [prime number generator](https://github.com/cainisdelta1/prime-generator-c)
 - I am also working on a 2D platform game named KRIN
+- The best way to reach me is by sending me an email at ava.g.hite@gmail.com
 
 <!--
 **cainisdelta1/cainisdelta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
